@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\Console85\Console85\bin\Debug\net6.0\Console85.exe
+C:\Users\Hugo\source\repos\Console85\Console85\bin\Debug\net6.0\Console85.deps.json
+C:\Users\Hugo\source\repos\Console85\Console85\bin\Debug\net6.0\Console85.runtimeconfig.json
+C:\Users\Hugo\source\repos\Console85\Console85\bin\Debug\net6.0\Console85.dll
+C:\Users\Hugo\source\repos\Console85\Console85\bin\Debug\net6.0\Console85.pdb
+C:\Users\Hugo\source\repos\Console85\Console85\obj\Debug\net6.0\Console85.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\Console85\Console85\obj\Debug\net6.0\Console85.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\Console85\Console85\obj\Debug\net6.0\Console85.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\Console85\Console85\obj\Debug\net6.0\Console85.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\Console85\Console85\obj\Debug\net6.0\Console85.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\Console85\Console85\obj\Debug\net6.0\Console85.dll
+C:\Users\Hugo\source\repos\Console85\Console85\obj\Debug\net6.0\refint\Console85.dll
+C:\Users\Hugo\source\repos\Console85\Console85\obj\Debug\net6.0\Console85.pdb
+C:\Users\Hugo\source\repos\Console85\Console85\obj\Debug\net6.0\Console85.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\Console85\Console85\obj\Debug\net6.0\ref\Console85.dll

@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\Console196\Console196\bin\Debug\net6.0\Console196.exe
+C:\Users\Hugo\source\repos\Console196\Console196\bin\Debug\net6.0\Console196.deps.json
+C:\Users\Hugo\source\repos\Console196\Console196\bin\Debug\net6.0\Console196.runtimeconfig.json
+C:\Users\Hugo\source\repos\Console196\Console196\bin\Debug\net6.0\Console196.dll
+C:\Users\Hugo\source\repos\Console196\Console196\bin\Debug\net6.0\Console196.pdb
+C:\Users\Hugo\source\repos\Console196\Console196\obj\Debug\net6.0\Console196.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\Console196\Console196\obj\Debug\net6.0\Console196.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\Console196\Console196\obj\Debug\net6.0\Console196.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\Console196\Console196\obj\Debug\net6.0\Console196.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\Console196\Console196\obj\Debug\net6.0\Console196.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\Console196\Console196\obj\Debug\net6.0\Console196.dll
+C:\Users\Hugo\source\repos\Console196\Console196\obj\Debug\net6.0\refint\Console196.dll
+C:\Users\Hugo\source\repos\Console196\Console196\obj\Debug\net6.0\Console196.pdb
+C:\Users\Hugo\source\repos\Console196\Console196\obj\Debug\net6.0\Console196.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\Console196\Console196\obj\Debug\net6.0\ref\Console196.dll

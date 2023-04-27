@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\Console209\Console209\bin\Debug\net6.0\Console209.exe
+C:\Users\Hugo\source\repos\Console209\Console209\bin\Debug\net6.0\Console209.deps.json
+C:\Users\Hugo\source\repos\Console209\Console209\bin\Debug\net6.0\Console209.runtimeconfig.json
+C:\Users\Hugo\source\repos\Console209\Console209\bin\Debug\net6.0\Console209.dll
+C:\Users\Hugo\source\repos\Console209\Console209\bin\Debug\net6.0\Console209.pdb
+C:\Users\Hugo\source\repos\Console209\Console209\obj\Debug\net6.0\Console209.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\Console209\Console209\obj\Debug\net6.0\Console209.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\Console209\Console209\obj\Debug\net6.0\Console209.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\Console209\Console209\obj\Debug\net6.0\Console209.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\Console209\Console209\obj\Debug\net6.0\Console209.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\Console209\Console209\obj\Debug\net6.0\Console209.dll
+C:\Users\Hugo\source\repos\Console209\Console209\obj\Debug\net6.0\refint\Console209.dll
+C:\Users\Hugo\source\repos\Console209\Console209\obj\Debug\net6.0\Console209.pdb
+C:\Users\Hugo\source\repos\Console209\Console209\obj\Debug\net6.0\Console209.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\Console209\Console209\obj\Debug\net6.0\ref\Console209.dll

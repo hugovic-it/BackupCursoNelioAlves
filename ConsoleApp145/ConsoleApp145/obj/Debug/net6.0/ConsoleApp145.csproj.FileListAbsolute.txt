@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\net6.0\ConsoleApp145.exe
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\net6.0\ConsoleApp145.deps.json
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\net6.0\ConsoleApp145.runtimeconfig.json
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\net6.0\ConsoleApp145.dll
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\bin\Debug\net6.0\ConsoleApp145.pdb
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\net6.0\ConsoleApp145.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\net6.0\ConsoleApp145.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\net6.0\ConsoleApp145.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\net6.0\ConsoleApp145.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\net6.0\ConsoleApp145.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\net6.0\ConsoleApp145.dll
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\net6.0\refint\ConsoleApp145.dll
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\net6.0\ConsoleApp145.pdb
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\net6.0\ConsoleApp145.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\ConsoleApp145\ConsoleApp145\obj\Debug\net6.0\ref\ConsoleApp145.dll

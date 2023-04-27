@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\bin\Debug\net6.0\LINQ-II.exe
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\bin\Debug\net6.0\LINQ-II.deps.json
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\bin\Debug\net6.0\LINQ-II.runtimeconfig.json
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\bin\Debug\net6.0\LINQ-II.dll
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\bin\Debug\net6.0\LINQ-II.pdb
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\obj\Debug\net6.0\LINQ-II.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\obj\Debug\net6.0\LINQ-II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\obj\Debug\net6.0\LINQ-II.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\obj\Debug\net6.0\LINQ-II.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\obj\Debug\net6.0\LINQ-II.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\obj\Debug\net6.0\LINQ-II.dll
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\obj\Debug\net6.0\refint\LINQ-II.dll
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\obj\Debug\net6.0\LINQ-II.pdb
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\obj\Debug\net6.0\LINQ-II.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\LINQ-II\LINQ-II\obj\Debug\net6.0\ref\LINQ-II.dll

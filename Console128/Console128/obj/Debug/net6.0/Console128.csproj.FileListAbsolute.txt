@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\Console128\Console128\bin\Debug\net6.0\Console128.exe
+C:\Users\Hugo\source\repos\Console128\Console128\bin\Debug\net6.0\Console128.deps.json
+C:\Users\Hugo\source\repos\Console128\Console128\bin\Debug\net6.0\Console128.runtimeconfig.json
+C:\Users\Hugo\source\repos\Console128\Console128\bin\Debug\net6.0\Console128.dll
+C:\Users\Hugo\source\repos\Console128\Console128\bin\Debug\net6.0\Console128.pdb
+C:\Users\Hugo\source\repos\Console128\Console128\obj\Debug\net6.0\Console128.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\Console128\Console128\obj\Debug\net6.0\Console128.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\Console128\Console128\obj\Debug\net6.0\Console128.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\Console128\Console128\obj\Debug\net6.0\Console128.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\Console128\Console128\obj\Debug\net6.0\Console128.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\Console128\Console128\obj\Debug\net6.0\Console128.dll
+C:\Users\Hugo\source\repos\Console128\Console128\obj\Debug\net6.0\refint\Console128.dll
+C:\Users\Hugo\source\repos\Console128\Console128\obj\Debug\net6.0\Console128.pdb
+C:\Users\Hugo\source\repos\Console128\Console128\obj\Debug\net6.0\Console128.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\Console128\Console128\obj\Debug\net6.0\ref\Console128.dll

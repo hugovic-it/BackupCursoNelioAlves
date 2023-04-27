@@ -1,0 +1,15 @@
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\bin\Debug\net6.0\RervisaoInterfaceres.exe
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\bin\Debug\net6.0\RervisaoInterfaceres.deps.json
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\bin\Debug\net6.0\RervisaoInterfaceres.runtimeconfig.json
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\bin\Debug\net6.0\RervisaoInterfaceres.dll
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\bin\Debug\net6.0\RervisaoInterfaceres.pdb
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\obj\Debug\net6.0\RervisaoInterfaceres.csproj.AssemblyReference.cache
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\obj\Debug\net6.0\RervisaoInterfaceres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\obj\Debug\net6.0\RervisaoInterfaceres.AssemblyInfoInputs.cache
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\obj\Debug\net6.0\RervisaoInterfaceres.AssemblyInfo.cs
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\obj\Debug\net6.0\RervisaoInterfaceres.csproj.CoreCompileInputs.cache
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\obj\Debug\net6.0\RervisaoInterfaceres.dll
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\obj\Debug\net6.0\refint\RervisaoInterfaceres.dll
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\obj\Debug\net6.0\RervisaoInterfaceres.pdb
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\obj\Debug\net6.0\RervisaoInterfaceres.genruntimeconfig.cache
+C:\Users\Hugo\source\repos\RervisaoInterfaceres\RervisaoInterfaceres\obj\Debug\net6.0\ref\RervisaoInterfaceres.dll
